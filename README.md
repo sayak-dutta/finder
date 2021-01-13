@@ -1,3 +1,3 @@
 # finder
-finder 1 page landing website.
-A Tinder clone
+A Tinder clone 1 page landing website.
+
